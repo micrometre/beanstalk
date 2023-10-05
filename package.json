@@ -1,0 +1,15 @@
+{
+
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+
+
+
+  "dependencies": {
+    "nodestalker": "^0.1.22"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
